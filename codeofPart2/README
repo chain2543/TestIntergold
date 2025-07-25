@@ -1,0 +1,4 @@
+project/
+├── app.config          # เก็บค่าการเชื่อมต่อ PostgreSQL
+├── db.py               # ฟังก์ชัน GetCustomerInfo
+└── part2.py             # ใช้เรียกฟังก์ชันเพื่อทดสอบ
